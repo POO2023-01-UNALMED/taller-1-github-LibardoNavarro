@@ -1,3 +1,4 @@
 Nombre: Libardo Jose Navarro Pedrozo
 Edad: 17
 Mis aspiraciones con la materia es aprender a dominar a la perfección la programación orientada a objetos.
+Cuando la carpeta archivo estaba vacía no dejó hacer el push, luego cree respuesta.txt dentro de ella y si dejó.
