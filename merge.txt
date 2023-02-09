@@ -1,0 +1,1 @@
+Cuando la carpeta archivo estaba vacía no dejó hacer el push, luego cree respuesta.txt dentro de ella y si dejó.
