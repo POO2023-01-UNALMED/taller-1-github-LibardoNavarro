@@ -1,0 +1,3 @@
+Nombre: Libardo Jose Navarro Pedrozo
+Edad: 17
+Mis aspiraciones con la materia es aprender a dominar a la perfección la programación orientada a objetos.
